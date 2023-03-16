@@ -1,5 +1,5 @@
 {
-    "name": "patreon/patreon",
+    "name": "matpersonne/patreon",
     "description": "Interact with the Patreon API via OAuth.",
     "license": "MIT",
     "authors": [
